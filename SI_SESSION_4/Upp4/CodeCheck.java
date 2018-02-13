@@ -8,7 +8,7 @@ import java.io.IOException;
 
 
 /*
-Many programmers suffer from the fact that they might have a mismatched (),{},"",''
+Many programmers suffer from the fact that they might have mismatched (),{}
 We are goint to write a program that checks if a java file has a mismatch in the number of opened and closed symbols.
 */
 
